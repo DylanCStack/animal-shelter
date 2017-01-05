@@ -10,9 +10,10 @@ div {
 }
 
 div img {
+  border: 3px solid #000;
   width: 90%;
   height:auto;
-  padding: 10px;
+  margin: 10px;
 }
 
 div p {
